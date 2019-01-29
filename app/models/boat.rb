@@ -34,4 +34,3 @@ class Boat < ActiveRecord::Base
     order("length DESC").first
   end
 end
-end
